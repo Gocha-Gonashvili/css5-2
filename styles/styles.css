@@ -22,6 +22,7 @@ a {
 }
 
 header {
+    width: 100vw;
     padding: 28px 200px 0px 200px;
     border-bottom: 1px solid #261C51;
     gap: 64px;
